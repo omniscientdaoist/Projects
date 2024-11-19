@@ -1,0 +1,16 @@
+{
+  "name": "frontend-bootcamp",
+  "version": "1.0.0",
+  "description": "My First BootStrap, Git and GitHub Project.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://omniscientdaoist.github.io/projects",
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
